@@ -1,0 +1,1 @@
+module.exports = require("npm:base62@1.2.1/base62.js");

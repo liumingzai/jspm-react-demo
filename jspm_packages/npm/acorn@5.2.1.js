@@ -1,0 +1,1 @@
+module.exports = require("npm:acorn@5.2.1/dist/acorn.js");
