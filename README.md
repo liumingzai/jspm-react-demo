@@ -24,3 +24,6 @@
 	7. Link的query查询字符串如何添加
 	8. 组件的生命周期
 
+项目服务端使用browser-sync来启动服务
+
+	browser-sync start --server --no-notify --files 'index.html, app/**/*.js'
